@@ -2,7 +2,7 @@
 
 ## Hướng dẫn cài đặt và chạy ứng dụng đánh giá điểm thi
 
-Ứng dụng này giúp phân tích và đánh giá điểm thi của sinh viên dựa trên các tệp dữ liệu đầu vào. Nó kiểm tra định dạng dữ liệu, tính toán điểm và ghi kết quả ra tệp.
+Dự án này nhằm tự động hóa quy trình chấm điểm cho các bài thi của các lớp với hàng nghìn học sinh, giúp giảm đáng kể thời gian cần thiết cho việc chấm điểm. Chương trình sẽ đọc dữ liệu bài thi từ các tệp văn bản, xác thực và chấm điểm các bài thi, và tạo báo cáo chi tiết cùng với các tệp kết quả.
 
 ### Yêu cầu hệ thống
 
